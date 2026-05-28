@@ -1,0 +1,73 @@
+body {
+  background: #e8ecf3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Login Box */
+.login-box {
+  width: 380px;
+  border-radius: 30px;
+  background: #e8ecf3;
+
+  box-shadow:
+    15px 15px 30px #c7cad1,
+    -15px -15px 30px #ffffff;
+}
+
+/* Logo */
+.logo {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: #000;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  box-shadow:
+    8px 8px 15px #c7cad1,
+    -8px -8px 15px #ffffff;
+}
+
+.logo span {
+  color: #4f46e5;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+/* Input Box */
+.input-box {
+  height: 55px;
+  border-radius: 30px;
+  background: #e8ecf3;
+
+  box-shadow:
+    inset 6px 6px 12px #c7cad1,
+    inset -6px -6px 12px #ffffff;
+}
+
+/* Remove Bootstrap input background */
+.form-control {
+  background: transparent !important;
+}
+
+/* Button */
+.login-btn {
+  height: 55px;
+  border-radius: 30px;
+  border: none;
+
+  background: #4bb8d1;
+  color: white;
+  font-weight: bold;
+
+  box-shadow:
+    6px 6px 12px #c7cad1,
+    -6px -6px 12px #ffffff;
+}
+
+.login-btn:hover {
+  background: #3aa7bf;
+  color: white;
+}
