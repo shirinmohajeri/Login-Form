@@ -28,7 +28,7 @@ A modern, responsive login interface built with **HTML5**, **CSS3**, and **Boots
 # 🖼 Preview
 
 > Add screenshots after finishing the project
-| ![Desktop](assets/desktop.png)  |
+| ![Desktop](https://raw.githubusercontent.com/shirinmohajeri/Login-Form/refs/heads/main/login-ui/assets/Login-Form.jpg)  |
 
 ---
 
