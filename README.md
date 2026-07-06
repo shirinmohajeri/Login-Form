@@ -27,11 +27,8 @@ A modern, responsive login interface built with **HTML5**, **CSS3**, and **Boots
 
 # 🖼 Preview
 
-> Add screenshots after finishing the project.
-
-| Desktop | Mobile |
-|----------|---------|
-| ![Desktop](assets/desktop.png) | ![Mobile](assets/mobile.png) |
+> Add screenshots after finishing the project
+| ![Desktop](assets/desktop.png)  |
 
 ---
 
@@ -56,9 +53,8 @@ login-ui/
 ├── index.html          # Main login page
 ├── style.css           # Styles and animations
 ├── assets/
-│   ├── desktop.png     # Desktop screenshot
-│   └── mobile.png      # Mobile screenshot
-│
+│   ├── Login-Form.png     # Login-Form
+│   
 └── README.md
 ```
 
