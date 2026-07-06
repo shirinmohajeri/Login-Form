@@ -53,7 +53,7 @@ login-ui/
 ├── index.html          # Main login page
 ├── style.css           # Styles and animations
 ├── assets/
-│   ├── Login-Form.png     # Login-Form
+│   ├── Login-Form.jpg     # Login-Form
 │   
 └── README.md
 ```
